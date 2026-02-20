@@ -17,5 +17,13 @@
   },
   "devDependencies": {
     "nodemon": "^3.1.11"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Miriam1735/backend5B.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Miriam1735/backend5B/issues"
+  },
+  "homepage": "https://github.com/Miriam1735/backend5B#readme"
 }
